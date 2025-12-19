@@ -100,12 +100,12 @@ function App() {
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">Nandini's</span>{" "}
+                Counting down to <span className="highlight">Nanni's</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>Thanks you for making my life more special by saying "arre mujhe gussa aa rhi hai" 💗</p>
+          <p>Because this gusshe vaali gurl deserves a moment like this 💗</p>
         </section>
 
         <Countdown
@@ -171,7 +171,7 @@ function App() {
         <Gallery isActive={currentPage === 4} />
         <section className="final">
           <h2 className="final-message">💖 Yours Only — Nimish 💖</h2>
-          <p className="final-subtitle"> Couldn't join for your bithday but hope to see you very soonnnnn✨</p>
+          <p className="final-subtitle"> Couldn't join you for your bithday but hope to see you very soonnnnn✨</p>
         </section>
       </div>
 
