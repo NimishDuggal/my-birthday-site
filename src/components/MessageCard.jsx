@@ -13,15 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Nandini,
+  const message = `Yadav jii,
 
-So grateful for you and the light you bring into my life. 
-May this year be full of growth, laughter, late-night talks, and everything you truly deserve. 
+So grateful for you and the light you bring into my life ✨
+Your “Acchaaaa”, “Arre, mujhe gussa aa rahi hai” and “Bohot marungi” have become an inseparable part of my life now 😄
 
+Couldn’t join you for your birthdayyy, but hoping to see you in real veryyy soonnnn 🤍
+
+May this year be full of growth, laughter, late-night talks, and everything you truly deserve.
 Stay amazing, always ✨
-Happy Birthday! 🎉
 
-— Dug Dug`;
+Happy Birthday! 🎉
+— Dug Dug 💫`;
 
   // Handle page transitions
   useEffect(() => {
