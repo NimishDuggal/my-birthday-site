@@ -171,7 +171,7 @@ function App() {
         <Gallery isActive={currentPage === 4} />
         <section className="final">
           <h2 className="final-message">💖 Yours Only — Nimish 💖</h2>
-          <p className="final-subtitle"> Couldn't join you for your bithday but hope to see you very soonnnnn✨</p>
+          <p className="final-subtitle"> Couldn't join you for your bithday but hoping to see you very soonnnnn✨</p>
         </section>
       </div>
 
